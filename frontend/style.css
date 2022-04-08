@@ -1,0 +1,29 @@
+body{
+    background-image: url("https://wallpaperaccess.com/full/1172309.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+table input{
+    border: none;
+}
+table button{
+    width: 80px;
+    float: left;
+}
+#btn-con{
+    display: block;
+    width: 220px;
+}
+label{
+    margin-top: 10px;
+    margin-bottom: 2px;
+    color: dodgerblue;
+}
+th{
+    color: dodgerblue;
+}
+#sub{
+    background-color: dodgerblue;
+    color: white;
+}
