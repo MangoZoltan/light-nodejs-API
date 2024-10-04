@@ -1,10 +1,10 @@
 # Hogyan működik?
-
+A program működtetéséhez **telepítve kell legyen a Node.js**. Ezt megtehetjük a hivatalos oldaukon.<br>
 Ahhoz, hogy elérjük a servert elöbb azt el kell indítani.
 ## Indítás
 
 A ~/backend/ mappában adjuk ki a következő utasítást:
-- *node* server.js
+- **node** server.js
 
 *A server a :3000 PORT-on működik, ha ez foglat az oldal esetleg nem működhet*
 
